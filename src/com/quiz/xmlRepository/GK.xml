@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Subject>
+
+<Item>
+<Question>Who is india team captain ?</Question>
+<Option1>Virat Kohli</Option1>
+<Option2>Ms Dhoni</Option2>
+<Option3>Shreyas Iyer</Option3>
+<Option4>Shikhar Dhawan</Option4>
+<Correct answer="A">Virat Kohli</Correct>
+</Item>
+
+<Item>
+<Question>Who is father of Nation?</Question>
+<Option1 >Bose</Option1>
+<Option2 >Gandhi</Option2>
+<Option3>Modi</Option3>
+<Option4>kejriwal</Option4>
+<Correct answer="B">Gandhi</Correct>
+</Item>
+
+<Item>
+<Question answer="C">Which city is capital of M.P?</Question>
+<Option1>Jabalpur</Option1>
+<Option2>Indore</Option2>
+<Option3>Bhopal</Option3>
+<Option4>Shahdol</Option4>
+<Correct answer="C">Bhopal</Correct>
+</Item>
+
+<Item>
+<Question>Capital of india is ??</Question>
+<Option1>Delhi</Option1>
+<Option2>Mumbai</Option2>
+<Option3>Jaipur</Option3>
+<Option4>Nagpur</Option4>
+<Correct answer="A">Delhi</Correct>
+</Item>
+
+<Item>
+<Question>National game of india ?</Question>
+<Option1>Cricket</Option1>
+<Option2>Football</Option2>
+<Option3>BasketBall</Option3>
+<Option4>Hockey</Option4>
+<Correct answer="D">Hockey</Correct>
+</Item>
+
+<Item>
+<Question>In which continent is the country Japan located? ?</Question>
+<Option1>Asia</Option1>
+<Option2>Europe</Option2>
+<Option3>Africa</Option3>
+<Option4>America</Option4>
+<Correct answer="A">Asia</Correct>
+</Item>
+
+<Item>
+<Question>Which is the largest organ in the human body?</Question>
+<Option1>Liver</Option1>
+<Option2>Kidney</Option2>
+<Option3>Liver</Option3>
+<Option4>Skin</Option4>
+<Correct answer="D">Skin</Correct>
+</Item>
+
+<Item>
+<Question>Which is the biggest animal on earth?</Question>
+<Option1>Blue Whale</Option1>
+<Option2>Shark</Option2>
+<Option3>Tuna</Option3>
+<Option4>Turtle</Option4>
+<Correct answer="A">Blue Whale</Correct>
+</Item>
+
+<Item>
+<Question>Which is the largest planet in the solar system??</Question>
+<Option1>Venus</Option1>
+<Option2 >Jupter</Option2>
+<Option3>Saturn</Option3>
+<Option4>Mars</Option4>
+<Correct answer="B">Jupter</Correct>
+</Item>
+
+<Item>
+<Question >Who wrote the book ‘The Story of My Experiments with Truth' ?</Question>
+<Option1>Rabindranath Tagore</Option1>
+<Option2>Subhash Chandra Bose</Option2>
+<Option3>Mahatma Gandhi</Option3>
+<Option4>Nehru</Option4>
+<Correct answer="B">Subhash Chandra Bose</Correct>
+</Item>
+
+
+</Subject>

@@ -1,0 +1,12 @@
+Oct 27, 2021 10:29:36 PM com.quiz.view.ErrorView authError
+WARNING: warning message
+Oct 27, 2021 10:29:36 PM com.quiz.view.ErrorView authError
+SEVERE: Severe message
+Oct 27, 2021 10:35:46 PM com.quiz.view.ErrorView authError
+WARNING: Incorrect User and Password
+Oct 27, 2021 10:35:46 PM com.quiz.view.ErrorView authError
+SEVERE: Severe message
+Oct 29, 2021 4:11:11 PM com.quiz.view.ErrorView authError
+WARNING: Incorrect User and Password
+Oct 29, 2021 4:11:11 PM com.quiz.view.ErrorView authError
+SEVERE: Severe message

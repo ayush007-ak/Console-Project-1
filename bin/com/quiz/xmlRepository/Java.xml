@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Subject>
+
+<Item id = "1">
+<Question>What is correct syntax for main method of a java class?</Question>
+<Option1>public static int main(String[] args)</Option1>
+<Option2>public int main(String[] args)</Option2>
+<Option3>public static void main(String[] args)</Option3>
+<Option4> None of the above.</Option4>
+<Correct answer="C">public static void main(String[] args)</Correct>
+</Item>
+
+<Item  id="2">
+<Question>- What is the size of int variable?</Question>
+<Option1>8 bit</Option1>
+<Option2>16 bit</Option2>
+<Option3>32 bit</Option3>
+<Option4>64 bit</Option4>
+<Correct answer="C">32 bit</Correct>
+</Item>
+
+<Item  id="3">
+<Question>What is the default value of char variable?</Question>
+<Option1>'\u0000'</Option1>
+<Option2>0</Option2>
+<Option3>null</Option3>
+<Option4>not defined</Option4>
+<Correct answer="A">'\u0000'</Correct>
+</Item>
+
+<Item id="4">
+<Question>Which of the following is true about protected access modifier?</Question>
+<Option1>Variables, methods and constructors which are declared protected can be accessed by any class.</Option1>
+<Option2>Variables, methods and constructors which are declared protected can be accessed by any class lying in same package.</Option2>
+<Option3>Variables, methods and constructors which are declared protected in the superclass can be accessed only by its child class.</Option3>
+<Option4> None of the above.</Option4>
+<Correct answer="B">Variables, methods and constructors which are declared protected can be accessed by any class lying in same package.</Correct>
+</Item>
+
+<Item id="5">
+<Question>What is Encapsulation?</Question>
+<Option1>Encapsulation is a technique to define different methods of same type.</Option1>
+<Option2>Encapsulation is the ability of an object to take on many forms.</Option2>
+<Option3> Encapsulation is the technique of making the fields in a class private and providing access to the fields via public methods.</Option3>
+<Option4>None of the above.</Option4>
+<Correct answer=""> Encapsulation is the technique of making the fields in a class private and providing access to the fields via public methods.</Correct>
+</Item>
+
+<Item id="6">
+<Question>What is an applet?</Question>
+<Option1>An applet is a Java program that runs in a Web browser.</Option1>
+<Option2>Applet is a standalone java program.</Option2>
+<Option3>Applet is a tool.</Option3>
+<Option4>Applet is a run time environment.</Option4>
+<Correct answer="A">An applet is a Java program that runs in a Web browser.</Correct>
+</Item>
+
+<Item id="7">
+<Question>Dynamic binding uses which information for binding?</Question>
+<Option1>type.</Option1>
+<Option2>object.</Option2>
+<Option3>Both of the above.</Option3>
+<Option4>None of the above.</Option4>
+<Correct answer="B">object.</Correct>
+</Item>
+
+<Item id="8">
+<Question>Which is the way in which a thread can enter the waiting state?</Question>
+<Option1>Invoke its sleep() method.</Option1>
+<Option2>invoke object's wait method.</Option2>
+<Option3>Invoke its suspend() method.</Option3>
+<Option4>All of the above.</Option4>
+<Correct answer="D">All of the above.</Correct>
+</Item>
+
+<Item id="9">
+<Question>What will happen if static modifier is removed from the signature of the main method?</Question>
+<Option1>Compilation Error.</Option1>
+<Option2>RunTime Error: NoSuchMethodError.</Option2>
+<Option3>Program will compile and run without any output.</Option3>
+<Option4>Program will compile and run to show the required output.</Option4>
+<Correct answer="B">RunTime Error: NoSuchMethodError.</Correct>
+</Item>
+
+<Item id="10">
+<Question>In which case, a program is expected to recover?</Question>
+<Option1>If an error occurs.</Option1>
+<Option2>If an exception occurs.</Option2>
+<Option3>Both of the above.</Option3>
+<Option4> None of the above.</Option4>
+<Correct answer="B"> If an exception occurs.</Correct>
+</Item>
+
+
+</Subject>

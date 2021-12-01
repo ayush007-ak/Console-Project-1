@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Subject>
+
+<Item id = "1">
+<Question>What is CSS stands for?</Question>
+<Option1>Creative Style Sheet</Option1>
+<Option2>Colorful Style Sheet</Option2>
+<Option3>Cascading Style Sheet</Option3>
+<Option4>Computer Style Sheet</Option4>
+<Correct answer="C">Cascading Style Sheet</Correct>
+</Item>
+
+<Item  id="2">
+<Question>If we want define style for an unique element, then which css selector will we use?</Question>
+<Option1>name</Option1>
+<Option2>id</Option2>
+<Option3>class</Option3>
+<Option4>text</Option4>
+<Correct answer="B">id</Correct>
+</Item>
+
+<Item  id="3">
+<Question>If we don't want to allow a floating div to the left side of an element, which css property will we use ?</Question>
+<Option1>margin</Option1>
+<Option2>clear</Option2>
+<Option3>float</Option3>
+<Option4>padding</Option4>
+<Correct answer="B">clear</Correct>
+</Item>
+
+<Item id="4">
+<Question>Suppose we want to arragnge five nos. of DIVs so that DIV4 is placed above DIV1. Now, which css property will we use to control the order of stack?</Question>
+<Option1>d-index</Option1>
+<Option2>x-index</Option2>
+<Option3>s-index</Option3>
+<Option4>z-index</Option4>
+<Correct answer="D">z-index</Correct>
+</Item>
+
+<Item id="5">
+<Question>If we want to show an Arrow as cursor, then which value we will use ?</Question>
+<Option1>pointer</Option1>
+<Option2>arrow</Option2>
+<Option3>default</Option3>
+<Option4>arr</Option4>
+<Correct answer="C">default</Correct>
+</Item>
+
+<Item id="6">
+<Question>The property in CSS used to change the background color of an element is -</Question>
+<Option1>bgcolor</Option1>
+<Option2>color</Option2>
+<Option3>background-color</Option3>
+<Option4>All of the Mentioned</Option4>
+<Correct answer="C">background-color</Correct>
+</Item>
+
+<Item id="7">
+<Question>The CSS property used to control the element's font-size is -</Question>
+<Option1>font-size</Option1>
+<Option2>text-size</Option2>
+<Option3>text-edit</Option3>
+<Option4>none of the mentioned</Option4>
+<Correct answer="A">font-size</Correct>
+</Item>
+
+<Item id="8">
+<Question>Which of the following CSS property is used to set the background image of an element?</Question>
+<Option1>background-color</Option1>
+<Option2>background-image</Option2>
+<Option3>background-attachement</Option3>
+<Option4>None of above</Option4>
+<Correct answer="B">background-image</Correct>
+</Item>
+
+<Item id="9">
+<Question> Which of the following is the correct syntax to display the hyperlinks without any underline?</Question>
+<Option1>a {text-decoration : underline;}</Option1>
+<Option2>a {decoration : no-underline;}</Option2>
+<Option3>a {text-decoration : none;}</Option3>
+<Option4>None of the above</Option4>
+<Correct answer="C">a {text-decoration : none;}</Correct>
+</Item>
+
+<Item id="10">
+<Question>Which of the following is the correct syntax to make the background-color of all paragraph elements to yellow?</Question>
+<Option1>all p {background-color : #yellow;}</Option1>
+<Option2>all {background-color : yellow;}</Option2>
+<Option3>p {background-color : #yellow;}</Option3>
+<Option4>p {background-color : yellow;} </Option4>
+<Correct answer="D">p {background-color : yellow;}</Correct>
+</Item>
+
+
+</Subject>

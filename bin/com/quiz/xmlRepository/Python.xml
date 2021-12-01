@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Subject>
+<Item id = "1">
+
+<Question>What is the maximum possible length of an identifier?</Questions>
+<Option1>16</Option1>
+<Option2>32</Option2>
+<Option3>64</Option3>
+<Option4>None of the option</Option4>
+<Correct answer = "4">None of the option</Correct>
+</Item>
+<Item id = "2">
+<Question> Who developed the Python language?</Questions>
+<Option1>Zim Den</Option1>
+<Option2>Guido van Rossum</Option2>
+<Option3>Niene Stom</Option3>
+<Option4>Wick van Rossum</Option4>
+<Correct answer= "2">Guido van Rossum</Correct>
+</Item>
+<Item id = "3">
+<Question>In which language is Python written?</Questions>
+<Option1>English</Option1>
+<Option2>Hindi</Option2>
+<Option3>C</Option3>
+<Option4>None of above</Option4>
+<Correct answer = "3">C</Correct>
+</Item>
+<Item id = "4">
+<Question>Which one of the following is the correct extension of the Python file? </Questions>
+<Option1>.py</Option1>
+<Option2>.python</Option2>
+<Option3>.p</Option3>
+<Option4>None of these</Option4>
+<Correct answer= "2">.py</Correct>
+</Item>
+<Item id ="5">
+<Question>The output to execute string.ascii_letters can also be obtained from:?</Questions>
+<Option1>character</Option1>
+<Option2>ascii_lowercase_string.digits</Option2> 
+<Option3>lowercase_string.upercase</Option3>
+<Option4>ascii_lowercase+string.ascii_upercase</Option4>
+<Correct answer = "4">ascii_lowercase+string.ascii_upercase</Correct>
+</Item>
+<Item id = "6">
+<Question>Which one of the following syntaxes is the correct syntax to read from a simple text file stored in ''d:\java.txt''?</Questions>
+<Option1>Infile = open(''d:\\java.txt'', ''r'')</Option1>
+<Option2>Infile = open(file=''d:\\\java.txt'', ''r'')</Option2>
+<Option3>Infile = open(''d:\java.txt'',''r'')</Option3>
+<Option4>Infile = open.file(''d:\\java.txt'',''r'')</Option4>
+<Correct answer= "1">Infile = open(''d:\\java.txt'', ''r'')</Correct>
+</Item>
+<Item id = "7">
+<Question>Which of the following functions is a built-in function in python language?</Questions>
+<Option1>val</Option1>
+<Option2>println</Option2>
+<Option3>print</Option3>
+<Option4>None of these</Option4>
+<Correct answer = "3">print</Correct>
+</Item>
+<Item id = "8">
+<Question>Which of the following functions is a built-in function in python language?</Questions>
+<Option1>Division</Option1>
+<Option2>Multiplication</Option2>
+<Option3>Substraction</Option3>
+<Option4>Paranthesis</Option4>
+<Correct answer= "4">Paranthesis</Correct>
+</Item>
+<Item id ="9">
+<Question>Which one of the following has the same precedence level?</Questions>
+<Option1>Division, Power, Multiplication, Addition and Subtraction</Option1>
+<Option2>Division and Multiplication</Option2>
+<Option3>Subtraction and Division</Option3>
+<Option4>Power and Division</Option4>
+<Correct answer= "2">Division and Multiplication</Correct>
+</Item>
+<Item id = "10">
+<Question>Which of the following words cannot be a variable in python language?</Questions>
+<Option1>_val</Option1>
+<Option2>val</Option2>
+<Option3>try</Option3>
+<Option4>_try_</Option4>
+<Correct answer= "3">try</Correct>
+</Item>
+
+
+</Subject>

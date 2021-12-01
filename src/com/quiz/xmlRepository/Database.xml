@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Subject>
+
+<Item id = "1">
+<Question>What is the fullform of DBMS ?</Question>
+<Option1>Data of Binary Management System</Option1>
+<Option2> Database Management System</Option2>
+<Option3>Database Migration System</Option3>
+<Option4>Data Backup Management System</Option4>
+<Correct answer="B">Database Management System</Correct>
+</Item>
+
+<Item id="2">
+<Question> Database is a _______________________</Question>
+<Option1>Organized collection of tables that cannot be accessed, updated, and managed</Option1>
+<Option2>Collection of data or information without organizing</Option2>
+<Option3>Organized collection of data or information that can be accessed, updated, and managed</Option3>
+<Option4>Organized collection of data that cannot be updated</Option4>
+<Correct answer="C">Organized collection of data or information that can be accessed, updated, and managed</Correct>
+</Item>
+
+<Item id="3">
+<Question>Which type of data can be stored in the database?</Question>
+<Option1>Image oriented data</Option1>
+<Option2> Text, files containing data</Option2>
+<Option3>Data in the form of audio or video</Option3>
+<Option4> All of the above</Option4>
+<Correct answer="D">All of the above</Correct>
+</Item>
+
+<Item id="4">
+<Question>Full form of DML is </Question>
+<Option1>Data Management Language</Option1>
+<Option2>Data Manipulation Language</Option2>
+<Option3>Data Markup Language</Option3>
+<Option4>Data Migration Language</Option4>
+<Correct answer="B">Data maniipulation Language</Correct>
+</Item>
+
+<Item id="5">
+<Question>Who created the DBMS?</Question>
+<Option1> Edgar Frank Codd</Option1>
+<Option2>Charles Bachman</Option2> 
+<Option3> Charles Babbage</Option3>
+<Option4>Sharon B. Codd</Option4>
+<Correct answer="B">Charles Bachman</Correct>
+</Item>
+
+<Item id="6">
+<Question>Rows of a relation are known as the _______.</Question>
+<Option1>Degree</Option1>
+<Option2>Tuples</Option2>
+<Option3>Entity</Option3>
+<Option4>All of the above</Option4>
+<Correct answer="D">All of the above</Correct>
+</Item>>
+
+<Item id="7">
+<Question>What do you mean by one to many relationships?</Question>
+<Option1>One class may have many teachers</Option1>
+<Option2>One teacher can have many classes</Option2>
+<Option3>Many classes may have many teachers</Option3>
+<Option4>Many teachers may have many classes</Option4>
+<Correct answer="B">One teacher can have many classes </Correct>
+</Item>
+
+<Item id="8">
+<Question>Which of the following is generally used for performing tasks like creating the structure of the relations, deleting relation?</Question>
+<Option1>DML</Option1>
+<Option2>None of the option</Option2>
+<Option3>DDL</Option3>
+<Option4>Query</Option4>
+<Correct answer="C">DDL</Correct>
+</Item>
+
+<Item id="9">
+<Question>Which of the following provides the ability to query information from the database and insert tuples into, delete tuples from, and modify tuples in the database?</Question>
+<Option1>DML</Option1>
+<Option2>DDL</Option2>
+<Option3>Query</Option3>
+<Option4>Relational schema</Option4>
+<Correct answer="A">DML</Correct>
+</Item>
+
+<Item id="10">
+<Question>Which one of the following given statements possibly contains the error?</Question>
+<Option1>select * from emp where empid = 10003;</Option1>
+<Option2>select empid from emp where empid = 10006;</Option2>
+<Option3>select empid from emp;</Option3>
+<Option4>select empid where empid = 1009 and Lastname = 'GELLER';</Option4>
+<Correct answer="A">select * from emp where empid = 10003; </Correct>
+</Item>
+
+
+</Subject>

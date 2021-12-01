@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Subject>
+
+<Item id = "1">
+<Question>What is HTML stands for?</Question>
+<Option1>Hyper Text Markup language</Option1>
+<Option2>Hot Mail</Option2>
+<Option3>How to make lagansa</Option3>
+<Option4>None of mentioned</Option4>
+<Correct answer="A">Hyper Text Markup Language</Correct>
+</Item>
+
+<Item  id="2">
+<Question>How many tags are in a regular element?</Question>
+<Option1>2</Option1>
+<Option2>1</Option2>
+<Option3>3</Option3>
+<Option4>No tags</Option4>
+<Correct answer="A">2</Correct>
+</Item>
+
+<Item  id="3">
+<Question>What is the difference between an opening tag and a closing tag?</Question>
+<Option1>Opening tag has a / in front</Option1>
+<Option2>Closing tag has a / in front</Option2>
+<Option3>both has a / in it</Option3>
+<Option4>No difference</Option4>
+<Correct answer="B">Closing tag has a / in front</Correct>
+</Item>
+
+<Item id="4">
+<Question>< br  / > What type of tag is this?</Question>
+<Option1>break tag</Option1>
+<Option2>The broken tag</Option2>
+<Option3>An opening tag</Option3>
+<Option4>A closing tag</Option4>
+<Correct answer="A">break tag</Correct>
+</Item>
+
+<Item id="5">
+<Question>< body > Is this an opening tag or a closing tag?</Question>
+<Option1>background tag</Option1>
+<Option2>Closing tag</Option2>
+<Option3>break tag</Option3>
+<Option4>Opening tag</Option4>
+<Correct answer="D">Opening tag</Correct>
+</Item>
+
+<Item id="6">
+<Question>Where is the meta tag only found?</Question>
+<Option1>The last page </Option1>
+<Option2>The home page</Option2>
+<Option3>The Second page</Option3>
+<Option4>The Third page</Option4>
+<Correct answer="B">The home page</Correct>
+</Item>
+
+<Item id="7">
+<Question>Which is the correct way to tag an image?</Question>
+<Option1>src=”image.jpg/gif” alt=”type some text”</Option1>
+<Option2>Src=”image.jpg/gif” Alt=”type some text”</Option2>
+<Option3>Src=”image.jpg/gif” alt=”type some text”</Option3>
+<Option4>None of the mentioned</Option4>
+<Correct answer="D">none of the mentioned</Correct>
+</Item>
+
+<Item id="8">
+<Question>What is an element that does not have a closing tag called?</Question>
+<Option1>Tag</Option1>
+<Option2>Closed elemeny</Option2>
+<Option3>Empty element</Option3>
+<Option4>Open element</Option4>
+<Correct answer="C">Empty element</Correct>
+</Item>
+
+<Item id="9">
+<Question>Which of the following is an example of an empty element?</Question>
+<Option1><\img></Option1>
+<Option2><img><\img></Option2>
+<Option3>None of the mentioned</Option3>
+<Option4><img/></Option4>
+<Correct answer="D"><img/></Correct>
+</Item>
+
+<Item id="10">
+<Question>What should values always be enclosed in?</Question>
+<Option1>Parenthesis</Option1>
+<Option2>Questionmark</Option2>
+<Option3>Qutotation mark</Option3>
+<Option4>Commas </Option4>
+<Correct answer="C">Qutation mark</Correct>
+</Item>
+
+
+</Subject>
